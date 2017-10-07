@@ -1,0 +1,17 @@
+SMAP
+SinglePass1_jsp.java
+JSP
+*S JSP
+*F
++ 0 SinglePass1.jsp
+SinglePass1.jsp
+*L
+5,38:79
+42,17:28
+58,2:117
+61,277:121
+349,49:410
+397,2:459
+405,129:468
+533,11:597
+*E

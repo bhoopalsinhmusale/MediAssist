@@ -1,0 +1,76 @@
+cluster C0
+Document D0
+headache
+medical
+headaches
+university
+medicine
+migraine
+pain
+treatment
+cluster C1
+Document D1
+headaches
+headache
+tension
+migraines
+primary
+brain
+secondary
+pain
+type
+classification
+people
+head
+caused
+migraine
+cause
+symptoms
+disorders
+intracranial
+chronic
+person
+children
+types
+dangerous
+ichd
+different
+cluster
+neck
+blood
+include
+pressure
+neuroimaging
+vessels
+usually
+treatment
+published
+cluster C1
+Document D2
+headaches
+headache
+medical
+news
+pain
+treatment
+migraine
+today
+medication
+cause
+day
+www
+symptoms
+https
+head
+cluster C1
+Document D3
+headaches
+cluster C2
+Document D4
+headaches
+view
+pain
+page
+photo
+sinus
+migraines

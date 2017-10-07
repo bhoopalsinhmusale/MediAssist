@@ -1,0 +1,10 @@
+D1=https://en.wikipedia.org/wiki/Metabolic_acidosis
+D2=https://www.healthline.com/health/acidosis
+D3=http://www.msdmanuals.com/home/hormonal-and-metabolic-disorders/acid-base-balance/acidosis
+D4=http://www.nytimes.com/health/guides/disease/acidosis/overview.html
+D5=http://www.nytimes.com/health/guides/disease/metabolic-acidosis/overview.html
+D6=https://en.wikipedia.org/wiki/Metabolic_acidosis
+D7=http://emedicine.medscape.com/article/242975-workup
+D8=http://emedicine.medscape.com/article/242975-overview
+D9=https://www.webmd.com/a-to-z-guides/what-is-metabolic-acidosis
+D10=https://medlineplus.gov/ency/article/001181.htm

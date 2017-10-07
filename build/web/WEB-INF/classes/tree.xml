@@ -1,0 +1,80 @@
+<Symptom>
+<Abdominal-Pain>
+<Extra-abdominalpain>
+    <Sweetbreath>
+        <keyword>Diabetic Acidosis</keyword>
+    </Sweetbreath>
+    <Prodictivecough>
+        <keyword>Pneumonia</keyword>
+    </Prodictivecough>
+    <ShortnessOfBreath>
+            <keyword>Myocardial Infarction</keyword>
+    </ShortnessOfBreath>
+</Extra-abdominalpain>
+<Normal-Abdominal>
+    <IntermittentColickyPain>
+        <SlightJaundice>
+            <keyword>Cholelithiasis</keyword>
+        </SlightJaundice>
+    </IntermittentColickyPain>
+</Normal-Abdominal>
+</Abdominal-Pain>
+
+<Cough>
+    <Sputum>
+            <Withfever>
+                <keyword>Tuberculosis</keyword>
+            </Withfever>
+            <Nofever>
+                <keyword>Chronic Bronchitis</keyword>
+            </Nofever>
+    </Sputum>
+    <NoSputum>
+         <Dyspnea>
+             <keyword>Mediastinal Tumors</keyword>
+             <keyword>Emphysema</keyword>
+         </Dyspnea>
+         <NoDyspnea>
+             <keyword>Hay Fever</keyword>
+             <keyword>Early Primary Atypical Pneumonia</keyword>
+         </NoDyspnea>
+     </NoSputum>
+</Cough>
+<Flank-Pain>
+    <Feaver>
+        <No-Mass>
+            <keyword>Pyelonephritis</keyword>
+        </No-Mass>
+        <Mass>
+            <keyword>Peripheral Abscess</keyword>
+        </Mass>
+    </Feaver>
+    <No-Feaver>
+        <Hematuria>
+            <keyword>Tuberculosis</keyword>
+        </Hematuria>
+        <No-Hematuria>
+            <keyword>Acute Adrenal Infarch</keyword>
+        </No-Hematuria>
+    </No-Feaver>
+</Flank-Pain>
+<Flatulence>
+    <Gastric>
+        <With-Hearnburn>
+            <keyword>Reflux Esophagitis</keyword>
+        </With-Hearnburn>
+        <Without-Heartburn>
+            <keyword>Gastric Dilatation</keyword>
+            <keyword>Aerophagia</keyword>
+        </Without-Heartburn>
+    </Gastric>
+    <Intestinal>
+        <Abdominal-Pain>
+            <keyword>Steatorrhea</keyword>
+        </Abdominal-Pain>
+        <No-AbdominalPain>
+            <keyword>Aerophagia</keyword>
+        </No-AbdominalPain>
+    </Intestinal>
+</Flatulence>
+</Symptom>

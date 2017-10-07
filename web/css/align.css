@@ -1,0 +1,164 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 Apr, 2017, 3:28:56 PM
+    Author     : Bhoopal
+*/
+
+.body{
+    
+}
+.h10{
+    margin-top: 9%;
+    font-family: fantasy;
+    font-weight: 100;
+    margin-left: 100px;
+}
+.h11{
+    font-family: fantasy;
+    font-weight: 100;
+    margin-left: 100px;
+}
+.h12{
+    font-family: fantasy;
+    font-weight: 100;
+}
+.table1
+{
+    font-family: arial,sans-serif;
+    width: 40%;
+    color:black;
+    table-layout: fixed;
+}
+
+td,th
+{
+    
+    text-align: left;
+    padding: 8px;
+    font-style: normal;
+    font-weight: bold;
+    width: 10%;
+}
+
+.margin
+{
+    margin-left: 100px;
+}
+
+
+.h8{
+    margin-top: 19%;
+}
+.buttonmargin{
+    margin-top: 12%;
+}
+.singlepassmat
+{
+    
+    width: 60%;
+    position: static;
+    border:ridge;
+}
+.singlebtndiv
+{
+    height: 10%;
+    width: 10%;
+    float: right;
+    float: top;
+    position: relative;
+}
+.singlebtn
+{
+    float: right;
+    margin-top: 1%;
+    
+}
+.frequency
+{
+    margin-top: 9%;
+    height: 100%;
+    width: 100%;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.tablesinglepass
+{
+    align-content: center;
+    border: none;
+    margin-top: 9%;   
+}
+
+.imgcap
+{
+ font-family: fantasy;
+ font-weight: 200;
+ align-content: center;
+ font-size: x-large;  
+}
+.xmldiv
+{
+    float: left;
+    height: 84.8%;
+    width: 35%;
+    border: outset;
+    margin-top: 7.3%;
+}
+
+.questiondiv{
+    float: left;
+    height: 100%;
+    width: 60%;
+    
+    margin-left: 50px;
+    align-content: center;
+}
+.questionfont{
+    font-weight: 100;
+}
+
+.collmargin{
+   
+    height: 70%;
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 100px;
+    align-content: center;
+}
+.multihead{
+    margin-top: 120px;
+    margin-left: 100px;
+    font-family: fantasy;
+}
+.button1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+    
+}
+.snippetdiv{
+    width: 80%;
+    margin-left: 100px;
+}
+.pjustify{
+    text-align: justify;
+}
