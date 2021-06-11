@@ -8,4 +8,4 @@ information on the web for them is a bit difficult. Due to the lack of knowledge
 clearly describe their medical situations. However, medical search has its unique requirements that are not well
 handled by existing web search engines. In the proposed system, we present MediAssist: an intelligent medical web search
 engine that extensively uses domain-specific medical knowledge and questionnaire to facilitate ordinary Internet
-users/Patients to search for medical information. Based on selected symptoms patient will get appropriate results
+users/Patients to search for medical information. Based on selected symptoms patient will get appropriate results.
